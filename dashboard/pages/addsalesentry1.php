@@ -1,5 +1,4 @@
 <?php //include('config.php');
-kalyan
 session_start();
 include('../db/connection.php');
 if($_SESSION['user'])
